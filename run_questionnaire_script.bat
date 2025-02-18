@@ -1,0 +1,1 @@
+wsl "/mnt/c/users/spyridon.pagiatis/downloads/Five Programs To Learn Bash/questionnaire.sh"
